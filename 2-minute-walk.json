@@ -1,0 +1,10 @@
+{
+    "title": "2 minute walk",
+    "author": "Noitom",
+    "url": "https://mocap.market/",
+    "license": "CC BY-SA 4.0",
+    "features": ["bake"],
+    "options": {
+        "allow-bad-unicode": true
+    }
+}
